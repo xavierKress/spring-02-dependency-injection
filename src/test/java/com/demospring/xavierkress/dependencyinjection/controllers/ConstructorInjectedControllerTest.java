@@ -2,7 +2,7 @@ package com.demospring.xavierkress.dependencyinjection.controllers;
 
 import com.demospring.xavierkress.dependencyinjection.services.GreetingServiceImpl;
 import org.junit.Before;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
